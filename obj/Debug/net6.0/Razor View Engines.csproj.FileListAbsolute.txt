@@ -1,0 +1,61 @@
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\bin\Debug\net6.0\appsettings.Development.json
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\bin\Debug\net6.0\appsettings.json
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\bin\Debug\net6.0\Razor View Engines.staticwebassets.runtime.json
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\bin\Debug\net6.0\Razor View Engines.exe
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\bin\Debug\net6.0\Razor View Engines.deps.json
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\bin\Debug\net6.0\Razor View Engines.runtimeconfig.json
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\bin\Debug\net6.0\Razor View Engines.dll
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\bin\Debug\net6.0\Razor View Engines.pdb
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\Razor View Engines.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\Razor View Engines.AssemblyInfoInputs.cache
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\Razor View Engines.AssemblyInfo.cs
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\Razor View Engines.csproj.CoreCompileInputs.cache
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\Razor View Engines.MvcApplicationPartsAssemblyInfo.cache
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\Razor View Engines.RazorAssemblyInfo.cache
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\Razor View Engines.RazorAssemblyInfo.cs
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\staticwebassets\msbuild.Razor View Engines.Microsoft.AspNetCore.StaticWebAssets.props
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\staticwebassets\msbuild.build.Razor View Engines.props
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Razor View Engines.props
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Razor View Engines.props
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\staticwebassets.pack.json
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\staticwebassets.build.json
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\staticwebassets.development.json
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\scopedcss\bundle\Razor View Engines.styles.css
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\scopedcss\projectbundle\Razor View Engines.bundle.scp.css
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\Razor View Engines.dll
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\refint\Razor View Engines.dll
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\Razor View Engines.pdb
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\Razor View Engines.genruntimeconfig.cache
+D:\simplilearn\phase2\Assisted projects\Razor View Engines\Razor View Engines\obj\Debug\net6.0\ref\Razor View Engines.dll
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\bin\Debug\net6.0\appsettings.Development.json
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\bin\Debug\net6.0\appsettings.json
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\bin\Debug\net6.0\Razor View Engines.staticwebassets.runtime.json
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\bin\Debug\net6.0\Razor View Engines.exe
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\bin\Debug\net6.0\Razor View Engines.deps.json
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\bin\Debug\net6.0\Razor View Engines.runtimeconfig.json
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\bin\Debug\net6.0\Razor View Engines.dll
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\bin\Debug\net6.0\Razor View Engines.pdb
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\Razor View Engines.csproj.AssemblyReference.cache
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\Razor View Engines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\Razor View Engines.AssemblyInfoInputs.cache
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\Razor View Engines.AssemblyInfo.cs
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\Razor View Engines.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\Razor View Engines.MvcApplicationPartsAssemblyInfo.cache
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\Razor View Engines.RazorAssemblyInfo.cache
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\Razor View Engines.RazorAssemblyInfo.cs
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\staticwebassets\msbuild.Razor View Engines.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\staticwebassets\msbuild.build.Razor View Engines.props
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Razor View Engines.props
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Razor View Engines.props
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\staticwebassets.build.json
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\staticwebassets.development.json
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\scopedcss\bundle\Razor View Engines.styles.css
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\scopedcss\projectbundle\Razor View Engines.bundle.scp.css
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\Razor View Engines.dll
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\refint\Razor View Engines.dll
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\Razor View Engines.pdb
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\Razor View Engines.genruntimeconfig.cache
+D:\Mphasis\Phase-2\AssistedProjects\RazorViewEngine-master\obj\Debug\net6.0\ref\Razor View Engines.dll
